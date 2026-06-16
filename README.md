@@ -1,2 +1,2 @@
 # sql-project
-sql final project for Academica 
+Database Analytics | SQL
